@@ -1,2 +1,2 @@
 # Portfolio
-A Complete Responsive Personal Portfolio Website using HTML CSS Javascript.
+A Complete Animated Responsive Personal Portfolio Website using HTML CSS Javascript.
